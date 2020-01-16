@@ -6,3 +6,7 @@ I have visualized the acquired results using Word Cloud, Heat Map, Graphs, Stack
 
 
 Note: The folder structure is as required by the code. To run the Cosine Similarity project, you need to download glove.60b.50d.txt from this link - https://www.kaggle.com/rtatman/glove-global-vectors-for-word-representation.
+
+The sentimental analysis on the books is based on the blog by Greg Rafferty : https://towardsdatascience.com/basic-nlp-on-the-texts-of-harry-potter-sentiment-analysis-1b474b13651d 
+
+
